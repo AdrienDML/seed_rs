@@ -1,0 +1,12 @@
+[dependencies]
+quote = "1"
+syn = "1"
+
+[lib]
+proc-macro = true
+
+[package]
+authors = ["AdrienDML"]
+edition = "2021"
+name = "seed_macros"
+version = "0.1.0"

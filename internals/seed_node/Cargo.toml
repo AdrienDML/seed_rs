@@ -1,0 +1,7 @@
+[dependencies]
+
+[package]
+authors = ["AdrienDML"]
+edition = "2021"
+name = "seed_node"
+version = "0.1.0"
